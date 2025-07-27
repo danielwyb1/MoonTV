@@ -93,5 +93,17 @@
       "api": "https://91md.me/api.php/provide/vod",
       "name": "91麻豆"
     }
+    "senlinziyuan": {
+      "api": "http://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    }
+    "fanhao": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源"
+    }
+    "tantanziyuan": {
+      "api": "https://apittzy.com/api.php/provide/vod",
+      "name": "探探资源"
+    }
   }
 }
